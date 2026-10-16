@@ -131,5 +131,3 @@ Tests use EF Core's in-memory provider, so no SQL Server is needed for testing (
 ## CI/CD
 `.github/workflows/part2-api-ci.yml` restores, builds and runs all tests on every push and pull request using .NET 8 on Ubuntu, and uploads the test results as an artifact.
 
-## Differences from the Part 1 plan
-_List any deliberate differences between this implementation and your Part 1 ERD / SQL script / endpoint plan here, with the reason for each._
