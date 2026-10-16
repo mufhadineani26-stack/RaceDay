@@ -10,7 +10,8 @@ This part is the **ASP.NET Core Web API** (C#, .NET 8) that powers the system. I
 
 ## ✅ CI/CD green build
 
-_Add a screenshot of the passing GitHub Actions run here, e.g._
+<img width="1917" height="695" alt="image" src="https://github.com/user-attachments/assets/28e8704e-a319-4dd7-aa31-5add25aa45f7" />
+
 
 ```markdown
 ![CI build passing](docs/ci-green-build.png)
