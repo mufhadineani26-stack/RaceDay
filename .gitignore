@@ -1,0 +1,15 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.rsuser
+TestResults/
+*.trx
+[Dd]ebug/
+[Rr]elease/
+.idea/
+*.swp
+appsettings.*.local.json
